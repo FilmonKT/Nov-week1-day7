@@ -1,0 +1,43 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.btn{
+ 
+   
+}
+.jumbotron{
+padding-top:10px;
+width: 40%;
+min-height: 300px;
+/* margin-top: 30px; */
+margin: 30px auto 0px;
+padding-bottom: 30px;
+background-color: #d3e3;
+
+}
+.jumbotron img{
+width: 130px;
+height: 130px;
+margin-left: 100px;
+
+}
+.jumbotron h1{
+    text-align: center;
+    
+    
+}
+.jumbotron .input{
+    width: 330px;
+    height: 30px;
+    padding: 3px 3px 3px 10px;
+    border-radius: 5px;
+    border: none;
+}
+.tetx-info{
+    text-align: center;
+    font-size: 10px;
+}
+.jumbotron form h5{
+     margin-top: 0;
+}
